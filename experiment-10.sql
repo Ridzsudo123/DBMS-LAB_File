@@ -1,6 +1,6 @@
 -- Experiment 10: Query Optimization & Execution Plan Analysis (MySQL)
 
--- 1. Database and Table Creation
+--1. Database and Table Creation
 CREATE DATABASE IF NOT EXISTS CorpDataDB;
 USE CorpDataDB;
 
